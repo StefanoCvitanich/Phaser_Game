@@ -1,7 +1,7 @@
-﻿class SimpleGame {
+﻿class MyGame {
 
     constructor() {
-        this.game = new Phaser.Game(800, 600, Phaser.AUTO, 'content', { preload: this.preload, create: this.create });
+        this.game = new Phaser.Game(800, 600, Phaser.AUTO, 'content', { preload: this.preload, create: this.create, update: this.update });
     }
 
     game: Phaser.Game;
@@ -19,10 +19,15 @@
         this.game.add.tween(logo.scale).to({ x: 1, y: 1 }, 2000, Phaser.Easing.Bounce.Out, true);
     }
 
+    update() {
+
+
+    }
+
 }
 
 window.onload = () => {
 
-    var game = new SimpleGame();
+    var game = new MyGame();
 
 };
