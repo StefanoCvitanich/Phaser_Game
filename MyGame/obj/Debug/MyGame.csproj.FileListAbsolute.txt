@@ -1,0 +1,6 @@
+C:\Users\51\Desktop\PhaserGame\MyGame\obj\Debug\MyGame.csprojResolveAssemblyReference.cache
+C:\Users\51\Desktop\PhaserGame\MyGame\bin\MyGame.dll.config
+C:\Users\51\Desktop\PhaserGame\MyGame\bin\MyGame.dll
+C:\Users\51\Desktop\PhaserGame\MyGame\bin\MyGame.pdb
+C:\Users\51\Desktop\PhaserGame\MyGame\obj\Debug\MyGame.dll
+C:\Users\51\Desktop\PhaserGame\MyGame\obj\Debug\MyGame.pdb
