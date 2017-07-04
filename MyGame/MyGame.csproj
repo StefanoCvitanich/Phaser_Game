@@ -23,6 +23,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="app.css" />
+    <Content Include="breakout_sprites.png" />
     <Content Include="index.html" />
     <Content Include="phaser2.png" />
     <Content Include="phaser.js" />
